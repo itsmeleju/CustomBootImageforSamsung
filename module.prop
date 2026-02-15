@@ -1,0 +1,7 @@
+id=samsung_up_param
+name=Samsung Galaxy up_param *interchangable*
+version=3.0
+versionCode=3
+author=@noobthingz
+description=Resolution:1080x2400
+\nAutomatically switches between dual up_param boot logos every reboot.\n 
