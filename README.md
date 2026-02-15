@@ -9,7 +9,7 @@ This module includes two custom up_param files and switches between them at each
 🔄 Automatic boot logo alternation on every reboot\
 ⚡ Runs in early post-fs-data stage\
 📦 No manual flashing required (avoids risk)\
-👍 Safer & simple to use with updates (rarely)\ 
+👍 Safer & simple to use with updates (rarely)\
 🔒 Designed for only Samsung device that use 'up_param' partition
 
 > Some pictures are from online...
