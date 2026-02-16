@@ -1,16 +1,16 @@
-## **Interchanging Boot-Image for Samsung using (up_param)**
+## **Custom Boot-Image for Samsung using (up_param)**
+{_Default Resolution: 1080x2400 (u can flash on any samsung using up_param but it may glitch or break ur up_param)_}
 
-A KernelSU module that enables automatic boot logo rotation on Samsung devices by dynamically flashing alternate 'up_param' images on every reboot.
-
+A KernelSU module that enables automatic boot logo rotation on Samsung devices by dynamically flashing alternate 'up_param' images on every reboot.<br/>
 This module includes two custom up_param files and switches between them at each boot cycle, creating a seamless interchanging boot image experience.
-
 ✨ **Features**
-
 🔄 Automatic boot logo alternation on every reboot\
 ⚡ Runs in early post-fs-data stage\
 📦 No manual flashing required (avoids risk)\
 👍 Safer & simple to use with updates (rarely)\
 🔒 Designed for only Samsung device that use 'up_param' partition
+
+> Steps: Just flash the module on ur SU app
 
 ## Manual Method - If u want to permanently apply the bootIMAGE (Static & No updates)
 _* I am not resposible if u brick ur phone on Manual Method *_
