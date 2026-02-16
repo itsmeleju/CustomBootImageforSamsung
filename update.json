@@ -1,8 +1,9 @@
 {
   "version": "V2",
-  "versionCode": 2,
+  "versionCode": 3,
   "zipUrl": "https://github.com/itsmeleju/CustomBootImageforSamsung/releases/download/V2/CustomSamsungParam.zip",
   "changelog": "• Testing\n• Optimized flashing logic\n• Stability fixes"
-
 }
+
+
 
