@@ -1,5 +1,6 @@
-## CustomSamsungParam- V2
-- Fixed update system ⚙️
-- Minor syntax fixes 😪😫
-- Files structure and Stability improvements
-- New Boot Images ( added 2 up_param )
+## WatchDogs Theme - V4
+
+- Based on new Theme - WatchDogs Game 🎮
+- Changed script logic (now uses QMG and up_param) 🧠
+- Syntax fixes and Optimization ⚙️
+- This version won't have Interchangable feature ( "Deprecated" )
